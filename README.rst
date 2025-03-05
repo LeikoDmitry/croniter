@@ -2,7 +2,8 @@ Introduction
 ============
 
 croniter provides iteration for the datetime object with a cron like format.
-                          _ _
+     
+_ _
       ___ _ __ ___  _ __ (_) |_ ___ _ __
      / __| '__/ _ \| '_ \| | __/ _ \ '__|
     | (__| | | (_) | | | | | ||  __/ |

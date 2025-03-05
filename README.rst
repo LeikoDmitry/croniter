@@ -2,21 +2,11 @@ Introduction
 ============
 
 croniter provides iteration for the datetime object with a cron like format.
-
-
                           _ _
       ___ _ __ ___  _ __ (_) |_ ___ _ __
      / __| '__/ _ \| '_ \| | __/ _ \ '__|
     | (__| | | (_) | | | | | ||  __/ |
      \___|_|  \___/|_| |_|_|\__\___|_|
-
-
-Website: https://github.com/kiorky/croniter
-
-Build Badge
-===========
-.. image:: https://github.com/kiorky/croniter/actions/workflows/cicd.yml/badge.svg
-    :target: https://github.com/kiorky/croniter/actions/workflows/cicd.yml
 
 
 Usage

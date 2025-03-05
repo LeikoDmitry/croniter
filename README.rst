@@ -3,12 +3,6 @@ Introduction
 
 croniter provides iteration for the datetime object with a cron like format.
      
-_ _
-      ___ _ __ ___  _ __ (_) |_ ___ _ __
-     / __| '__/ _ \| '_ \| | __/ _ \ '__|
-    | (__| | | (_) | | | | | ||  __/ |
-     \___|_|  \___/|_| |_|_|\__\___|_|
-
 
 Usage
 ============
@@ -363,22 +357,5 @@ Contributors
 Thanks to all who have contributed to this project!
 If you have contributed and your name is not listed below please let us know.
 
-    - Aarni Koskela (akx)
-    - chris-baynes
-    - djmitche
-    - evanpurkhiser
-    - GreatCombinator
-    - Hinnack
-    - ipartola
-    - jlsandell
-    - kiorky
-    - lowell80 (Kintyre)
-    - mag009
-    - mrmachine
-    - Ryan Finnie (rfinnie)
-    - salitaba
-    - scop
-    - shazow
-    - yuzawa-san
-    - zed2015
+    - Dmitry Leiko
     
